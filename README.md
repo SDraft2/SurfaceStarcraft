@@ -11,4 +11,4 @@ SurfaceView를 활용 <br/>
 
 -------------------
 ## 프로젝트 참가부문
-Lee Seung Bong  - 프로그래머 (본인)
+Lee Seung Bong  - 개인개발
